@@ -1,0 +1,19 @@
+.des{
+    color:whitesmoke;
+    border:5px solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .des p{
+  padding: 10px;
+  color: black;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 20px;
+  }
+  
